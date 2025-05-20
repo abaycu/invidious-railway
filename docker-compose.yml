@@ -9,7 +9,7 @@ services:
         db:
           dbname: railway
           user: postgres
-          password: JAfMPuKmusTsVuKNPctJNddgWswggzMB
+          password: ptUugQjSvHSRMFrZFzOFFMmxLSojVtNg
           host: postgres.railway.internal
           port: 5432
         check_tables: true
